@@ -1,0 +1,17 @@
+/* position absolute kodtha..window kk with respect ayitte change avu */
+/* ethelm element relativ kodthittondenki absolute athine respect chytitt arikkm move chyuka */
+/* relateive onnm kodthittillenki window ne relate chth move chyyum */
+#b1{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    background-color: bisque;
+}
+#b2{
+ background-color: black;
+ width: 100px;
+ height: 100px;
+ position: absolute;
+ margin-left: 50%;
+}
+/*  */

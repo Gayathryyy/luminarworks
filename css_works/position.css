@@ -1,0 +1,14 @@
+/* content ne move akkan venditt */
+div{
+    width: 300px;
+    height: 200px;
+    background-color: cadetblue;
+    color: crimson;
+    padding-left: 10px;
+}
+/* verum padding kodthal left m right m top m bottom m space verum */
+/* block element and inline element in html...block element full row edkkm..but inline element aaa content n olla space matre edkku */
+.a1{
+    margin-top: 100px;
+}
+/* ee 100 edkknnath first box therunnidath ninnarikkm...top l ninnn arikkila */

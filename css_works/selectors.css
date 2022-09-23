@@ -1,0 +1,19 @@
+h1{
+    color: darkgray;
+    text-align: center;
+}
+/* left and start same */
+/* end and right same */
+#a1{
+    color: darkgreen;
+    text-align: right;
+}
+.c1{
+    color: darkorange;
+}
+#d1{
+    background-color: wheat;
+}
+#d2{
+    background-color: thistle;
+}

@@ -1,0 +1,19 @@
+.row{
+    width: 100%;
+    height: 200px;
+    background-color: burlywood;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    align-items: center; 
+}
+/* align items vertical alignment nn vendi */
+/* justify content horizontal alignmeent nn vandi */
+/* display de koode matre justify use akkan pattu */
+.col{
+    width: 100px;
+    height: 150px;
+    border: black solid 1px;
+    background-color: brown;
+}
+/* display flex use chyyunat box okke row l align chyyan venditt */

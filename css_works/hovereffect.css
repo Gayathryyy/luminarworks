@@ -1,0 +1,11 @@
+button{
+    background-color: darkblue;
+    color: white;
+    border-radius: 20px;
+}
+/* hover */
+button:hover{
+    background-color: white;
+    color: darkblue;
+    
+}

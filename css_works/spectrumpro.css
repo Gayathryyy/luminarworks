@@ -1,0 +1,116 @@
+.bgm{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+.col{
+    height: 130px;
+    width: 95px;   
+}
+.col-1{
+    background-color: lightslategray;
+    margin-left: 408px;
+}
+.col-2{
+    background-color:#408080;
+    margin-left: 512px;
+    margin-top: -130px;
+}
+.col-3{
+    background-color: mediumseagreen;
+    margin-top: -130px;
+    margin-left: 616px;
+}
+.col-4{
+    background-color: dimgray;
+    margin-left: 719px;
+    margin-top: -130px;
+}
+.col-5{
+    background-color: ghostwhite;
+    margin-left: 823px;
+    margin-top: -130px;
+}
+
+.col1{
+    margin-top: 43px;
+    margin-left: 303px;
+    background-color: orange;
+}
+.col2{
+    margin-left: 407px;
+    margin-top: -130px;
+    background-color:rosybrown ;
+}
+.col4{
+    margin-left: 511px;
+    margin-top: -259px;
+    background-color:rgb(18, 76, 112) ;
+}
+.col5{
+    margin-left: 616px;
+    margin-top: -130px;
+    background-color: blue;
+}
+.col6{
+    margin-left: 719px;
+    margin-top: -130px;
+    background-color:rgb(18, 76, 112) ;
+}
+.col7{
+    margin-left: 823px;
+    margin-top: -130px;
+    background-color: gray;
+}
+.col8{
+    margin-left: 928px;
+    margin-top: -130px;
+    background-color: gray;
+}
+.colu1{
+    margin-top: 42px;
+    margin-left: 200px;
+    background-color: aquamarine;
+}
+.colu2{
+    margin-top: -131px;
+    margin-left: 303px;
+    background-color: rgb(114, 224, 114);
+}
+.colu3{
+    margin-top: -131px;
+    margin-left: 407px;
+    background-color: rosybrown;
+}
+.colu4{
+    margin-top: -131px;
+    margin-left: 511px;
+    background-color: palevioletred;
+}
+.colu5{
+    margin-top: -130px;
+    margin-left: 616px;
+    background-color: brown;
+}
+.colu6{
+    margin-top: -131px;
+    margin-left: 719px;
+    background-color: aquamarine;
+}
+.colu7{
+    margin-top: -131px;
+    margin-left: 823px;
+    background-color: green;
+}
+.colu8{
+    margin-top: -131px;
+    margin-left: 928px;
+    background-color: blueviolet;
+}
+.colu9{
+    margin-top: -131px;
+    margin-left: 1033px;
+    background-color: darkviolet;
+}

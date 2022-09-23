@@ -1,0 +1,23 @@
+/* box nte size screen nn anusarich adjust avan width % l kodkkka...px kodthal adjust avilla */
+
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Moon+Dance&family=Roboto+Mono:wght@100&family=The+Nautigal:wght@400;700&display=swap');
+div{
+    width: 24%;
+    float: left; 
+    background-color: grey;
+    border: indigo solid 1px;
+    border-radius: 19px;
+}
+/* float left ellam oru row l ..margin property kk pakaram */
+img{
+    width: 100%;
+    height: 200px;
+    border-radius: 42px;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+/* font family nn copy chytha syles aan */

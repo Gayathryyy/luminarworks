@@ -1,0 +1,14 @@
+div :nth-child(1){
+    color: brown;
+}
+div :nth-child(2){
+    color: rgb(72, 87, 74);
+}
+div :nth-child(3){
+    color: rgb(75, 42, 165);
+}
+body{
+    background-image: url("./images/034bde783ea726b922100c86547831e8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
